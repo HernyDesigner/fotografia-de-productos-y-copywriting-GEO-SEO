@@ -1,0 +1,304 @@
+PRESUPUESTO DE SERVICIOS DIGITALES
+Fotografía de Productos · Copywriting GEO/SEO
+FIBRARGENT
+Tienda Mayorista Online
+Fecha: 18/03/2026
+Cliente:
+Fibrargent
+Proyecto:
+Tienda Mayorista – Carga inicial de productos
+Servicio:
+Fotografía de productos ecommerce + Copywriting GEO/SEO
+Domicilio servicio:
+Quilmes, Buenos Aires, Argentina
+Nro. de productos:
+22 productos (17 almohadas · 3 protectores · 1 sábana · 1 acolchado)
+Total de fotos:
+107 fotografías terminadas
+Validez del presupuesto:
+15 días corridos desde la fecha de emisión
+CONTEXTO DEL PROYECTO
+Este presupuesto cubre el servicio de fotografía y edición IA para los 22 productos de la tienda mayorista Fibrargent, paso previo a la asignación del dominio y publicación. Las fotografías serán capturadas con Samsung Galaxy A06 y procesadas con herramientas de IA por un diseñador gráfico profesional. La logística de productos (envío y retiro) está a cargo del cliente. No se incluye la carga de productos al CMS (ya presupuestada por separado).
+1. REFERENCIA DE MERCADO ECOMMERCE
+Análisis de plataformas líderes de ecommerce en el rubro hogar y textiles para definir el estándar visual mínimo recomendado:
+Plataforma Referente
+Fotos/Producto Promedio
+Tipos Usados
+SHEIN (arg.shein.com)
+6 – 8 imágenes
+Hero, lifestyle IA, detalle material, contexto uso, escala
+MercadoLibre (premium)
+5 – 7 imágenes
+Fondo blanco, ángulos múltiples, detalle, infografía
+Amazon (Hogar & Textiles)
+6 – 9 imágenes
+Hero blanco, lifestyle, detalle tela, escala, infografía beneficios
+Fibrargent (propuesta)
+4 – 5 imágenes
+Hero, detalle material, lifestyle IA, funcional/escala
+Fuente de referencia analizada: arg.shein.com (Almohadas) · Amazon Home Textiles · MercadoLibre Premium Argentina.
+2. TIPOS DE FOTOGRAFÍAS PROPUESTOS POR CATEGORÍA
+2a. Almohadas (17 productos · 5 fotos c/u = 85 fotos)
+#
+Tipo de Fotografía
+Descripción del encuadre / estilo
+Método
+1
+Hero Shot
+Almohada en posición vertical sobre fondo blanco/gris neutro. Encuadre frontal, luz difusa, sin sombras duras. Imagen principal del listing.
+Samsung A06 + IA
+2
+Textura / Material Close-Up
+Plano detalle del tejido (bambú, hipersoft, matelasé, etc.). Muestra tacto visual y calidad de la tela desde 15–20 cm.
+Samsung A06 + IA
+3
+Lifestyle Ambiental (IA)
+Almohada integrada en ambientación de dormitorio premium generada con IA. Fondo neutro cálido, ropa de cama coordinada, luz low-key.
+IA Generativa
+4
+Detalle Funcional
+Cierre, etiqueta de composición, costuras reforzadas o indicación del interior. Refuerza confianza del comprador mayorista.
+Samsung A06 + IA
+5
+Escala / Contexto de Uso
+Almohada apoyada sobre cama con sábanas o con mano en primer plano sugiriendo suavidad y tamaño real.
+Samsung A06 + IA
+Lista de Almohadas: Suamir Esencia · Suamir Bambú · Suamir Hipersoft · Alma · Duvetina · Florencia · Duvet · Dubella Soft · Dubella Hipersoft · Dubella Matelasé · Supless · Cherie Capullos · Cherie Eternelle · Bella Durmiente · Merlín Soft · Merlín · Hotel
+2b. Protectores (3 productos · 4 fotos c/u = 12 fotos)
+#
+Tipo de Fotografía
+Descripción del encuadre / estilo
+Método
+1
+Hero Shot
+Protector plegado de forma prolija sobre fondo blanco. Vista frontal que muestra marca/etiqueta.
+Samsung A06 + IA
+2
+Detalle Material
+Plano detalle de la tela: textura impermeable, acabado, hilo. Refuerza la propuesta de valor técnica.
+Samsung A06 + IA
+3
+Lifestyle Ambiental (IA)
+Protector colocado sobre colchón en ambientación de dormitorio generada con IA. Muestra el uso real.
+IA Generativa
+4
+Detalle Técnico
+Elásticos de esquinas, bordes costurados, sistema de fijación. Fundamental para compradores B2B.
+Samsung A06 + IA
+Productos: Protector Suamir · Protector Duvetina · Protector Supless
+2c. Sábanas (1 producto · 5 fotos = 5 fotos)
+#
+Tipo de Fotografía
+Descripción del encuadre / estilo
+Método
+1
+Hero Shot
+Sábana doblada de forma elegante sobre fondo blanco. Patrón (si aplica) y textura visibles.
+Samsung A06 + IA
+2
+Detalle de Trama
+Plano macro del hilo y tejido. Transmite suavidad, densidad y calidad del hilado.
+Samsung A06 + IA
+3
+Lifestyle Ambiental (IA)
+Cama tendida con sábana Florencia en ambientación de dormitorio premium generada con IA.
+IA Generativa
+4
+Display Doblado
+Sábana doblada en presentación tipo boutique con etiqueta visible. Ideal para catálogo.
+Samsung A06 + IA
+5
+Detalle Esquina / Elastizado
+Primer plano de esquina ajustada en colchón: elástico, terminación y profundidad del ajuste.
+Samsung A06 + IA
+Producto: Sábana Florencia
+2d. Acolchados (1 producto · 5 fotos = 5 fotos)
+#
+Tipo de Fotografía
+Descripción del encuadre / estilo
+Método
+1
+Hero Shot
+Acolchado extendido sobre superficie neutra. Vista aérea o frontal mostrando el patrón de quilting completo.
+Samsung A06 + IA
+2
+Detalle de Relleno / Quilting
+Plano detalle de la costura, gramaje y volumen del relleno. Transmite calidez y densidad.
+Samsung A06 + IA
+3
+Lifestyle Ambiental (IA)
+Cama con acolchado Suamir en dormitorio estilizado generado con IA. Atmósfera de hotel 5 estrellas.
+IA Generativa
+4
+Detalle de Bordes
+Acabado del borde, vivo decorativo, costura perimetral. Demuestra calidad de terminación.
+Samsung A06 + IA
+5
+Contexto de Escala
+Acolchado sobre cama de dos plazas mostrando caída y cobertura real. Referencia de tamaño.
+Samsung A06 + IA
+Producto: Acolchado Suamir
+3. METODOLOGÍA DE TRABAJO
+📱 Captura
+Fotografía con Samsung Galaxy A06 con técnica de encuadre ecommerce: luz natural difusa + difusor, fondo físico blanco/neutro, trípode y ajustes manuales de exposición.
+🤖 Edición IA
+Postproducción con herramientas IA profesionales (Photoshop generative fill, Adobe Firefly, Canva AI Background, Midjourney/DALL·E 3 para lifestyles). Corrección de color, recorte limpio y generación de ambientes de dormitorio premium.
+📐 Entrega
+Archivos JPG/WEBP web-optimizados (1200×1200 px mínimo para zoom), nombrados por SKU, organizados por carpeta de producto, listos para subir a Hostinger/WooCommerce.
+♻️ Logística
+El cliente Fibrargent gestiona envío y retiro de los productos. No se incluyen gastos de traslado.
+4. OPCIÓN A – SOLO FOTOGRAFÍAS (107 fotos / 22 productos)
+Incluye: captura, retoque IA básico, edición de fondos, generación de lifestyles IA y entrega de archivos web-optimizados.
+Concepto
+Cant.
+Precio Unit.
+Subtotal
+Pack Almohada estándar (5 fotos) × 17 unidades
+17
+$  35.000
+$ 595.000
+Pack Protector (4 fotos) × 3 unidades
+3
+$  26.000
+$  78.000
+Pack Sábana Florencia (5 fotos)
+1
+$  38.000
+$  38.000
+Pack Acolchado Suamir (5 fotos)
+1
+$  38.000
+$  38.000
+Descuento por volumen (22 productos, -10%)
+—
+—
+− $ 74.900
+TOTAL
+$ 674.100 ARS
+TOTAL OPCIÓN A: $ 674.100 ARS  ≈  USD 562  (cotización referencial, tipo cambio blue Mar 2026 ~$1.200 ARS/USD)
+Equivalencia: $6.301 ARS por foto terminada promedio (sobre 107 imágenes entregadas).
+5. OPCIÓN B – FOTOGRAFÍAS + COPYWRITING GEO/SEO (IA)
+Incluye todo lo de la Opción A más: redacción de copy de producto con enfoque en GEO (Generative Engine Optimization) para que Fibrargent aparezca correctamente en respuestas de motores de búsqueda con IA (ChatGPT, Perplexity, Google SGE).
+Componente del Copy GEO/SEO
+Descripción
+Título SEO de producto
+Título optimizado con keyword principal + diferenciador (ej: 'Almohada Suamir Bambú Hipoalergénica | Funda Soft Premium')
+Meta Description
+Descripción de 155 caracteres para SERP con CTA y keyword secundaria
+Descripción de Producto (250–350 palabras)
+Texto conversacional orientado a responder preguntas de usuarios y de motores IA. Incluye beneficios, materiales, usos y público objetivo.
+Keywords (5 por producto)
+1 principal + 4 secundarias/long-tail. Listadas para integrar en la plataforma Hostinger/WooCommerce.
+Alt text de imágenes
+Texto alternativo SEO para las 107 imágenes entregadas, con descripción precisa para indexación de Google Imágenes.
+Concepto
+Cant.
+Precio Unit.
+Subtotal
+Fotografías (Opción A completa, con descuento incluido)
+22 prod.
+—
+$ 674.100
+Copywriting GEO/SEO por producto × 22 unidades
+22
+$  15.000
+$ 330.000
+Alt text SEO para 107 imágenes (incluido en copy)
+107 img.
+—
+incluido
+Descuento bundle Fotos + Copy (-5% sobre copy)
+—
+—
+− $ 16.500
+TOTAL
+$ 987.600 ARS
+TOTAL OPCIÓN B: $ 987.600 ARS  ≈  USD 823  (cotización referencial, tipo cambio blue Mar 2026 ~$1.200 ARS/USD)
+6. PACKS ADICIONALES RECOMENDADOS
+Los siguientes servicios no son obligatorios pero se recomiendan para maximizar el impacto comercial de la tienda mayorista al momento del lanzamiento:
+Pack Adicional
+Incluye
+Precio Orientativo
+Pack Redes Sociales
+Recorte y adaptación de las 107 fotos a formatos Instagram square (1:1), story (9:16) y landscape (16:9)
+$ 66.000 ARS
+Infografías de Producto
+1 infografía visual por producto con íconos, materiales, medidas y beneficios clave. Base IA + diseño gráfico.
+$ 396.000 ARS
+($18.000/u)
+Pack Ficha Técnica PDF
+PDF descargable por producto con especificaciones técnicas, materiales y tabla de medidas. Útil para compradores mayoristas.
+$ 220.000 ARS
+($10.000/u)
+Pack Full Lanzamiento
+FOTOS + SEO Copy + Redes + Infografías + Fichas PDF (22 productos completos, listo para publicar)
+$ 1.290.000 ARS
+(15% descuento bundle)
+7. CUADRO COMPARATIVO DE OPCIONES
+Componente
+Opción A
+Opción B
+Full Lanzamiento
+107 fotos ecommerce (22 productos)
+✓
+✓
+✓
+Fondo blanco / edición IA básica
+✓
+✓
+✓
+Lifestyle ambiental IA (22 fotos)
+✓
+✓
+✓
+Archivos web-optimizados + alt text
+✓
+✓
+✓
+Copywriting GEO/SEO (22 fichas)
+—
+✓
+✓
+Meta titles + descriptions
+—
+✓
+✓
+Adaptación Redes Sociales (3 formatos)
+—
+—
+✓
+Infografías de producto (22 u.)
+—
+—
+✓
+Fichas técnicas PDF descargables
+—
+—
+✓
+PRECIO TOTAL
+$ 674.100
+$ 987.600
+$ 1.290.000
+8. CONDICIONES COMERCIALES
+Forma de pago:
+50% anticipo al confirmar · 50% al entregar archivos finales
+Plazo de entrega:
+15 días hábiles desde recepción de todos los productos en buen estado
+Retoque adicional:
+Se incluyen hasta 2 revisiones por foto. Cambios adicionales se cotizan aparte
+Logística:
+El cliente Fibrargent gestiona el envío y retiro de los productos. No se incluyen costos de transporte
+Propiedad intelectual:
+Las imágenes entregadas son de uso exclusivo de Fibrargent para la tienda indicada. Uso en otros canales o marcas debe acordarse por separado
+Facturación:
+Monotributista / Factura C. Se acepta transferencia bancaria o Mercado Pago
+Validez:
+Este presupuesto tiene validez de 15 días corridos. Pasada esa fecha, puede estar sujeto a actualización por variación de costos
+Elaborado por:
+Ecommerce Manager
+Diseñador Gráfico & Especialista IA
+Quilmes, Buenos Aires · Marzo 2026
+Recibí conforme:
+FIBRARGENT
+Firma y aclaración: ___________________
+Fecha: ___/___/2026
